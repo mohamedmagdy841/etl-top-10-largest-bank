@@ -1,7 +1,7 @@
 # etl-top-10-largest-bank
 ### Automated System for Quarterly Market Capitalization Reports: Transforming Global Banking Data into Multi-Currency Formats.
 
-An implementation for [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering). This project has been developed to automate the process of compiling, transforming, and storing information on the top 10 largest banks in the world, ranked by market capitalization in billion USD. The primary objective is to ensure that this data is readily available in multiple currencies (USD, GBP, EUR, and INR) and can be accessed by managers from different countries to meet their specific needs.
+This project has been developed to automate the process of compiling, transforming, and storing information on the top 10 largest banks in the world, ranked by market capitalization in billion USD. The primary objective is to ensure that this data is readily available in multiple currencies (USD, GBP, EUR, and INR) and can be accessed by managers from different countries to meet their specific needs.
 
 ## Project Overview
 
